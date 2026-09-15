@@ -1,0 +1,22 @@
+{
+  "_notice": "Entirely synthetic demonstration. Reserved example domains are not evidence about a real company.",
+  "brand": {
+    "brand_name": "Northstar",
+    "website": "https://northstar.example",
+    "primary_market": "Demo market",
+    "notes": "Fictional brand used only for an offline portfolio demonstration."
+  },
+  "source": {
+    "source_type": "demo_fixture",
+    "source_name": "Northstar synthetic catalogue",
+    "source_url": "https://northstar.example/catalogue",
+    "status": "active"
+  },
+  "product": {
+    "product_name": "Demo Canvas Cap",
+    "product_url": "https://northstar.example/products/demo-cap",
+    "product_category": "headwear",
+    "product_type": "6_panel",
+    "notes": "Synthetic record; no real product image or pricing is included."
+  }
+}
