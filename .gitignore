@@ -1,0 +1,38 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+
+# Business data, generated files and backups
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite*
+*.bak
+*.backup
+*.zip
+*.tar*
+uploads/
+logs/
+.run/
+*.log
+
+# Local runtimes and editor settings
+.venv/
+.python/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
